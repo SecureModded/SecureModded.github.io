@@ -107,3 +107,17 @@ button {
 .social-links a[href*="open.spotify.com"] i {
     color: #1DB954;
 }
+
+/* Add this to your existing CSS or create a new CSS file */
+@media only screen and (max-width: 600px) {
+    .project-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .project-container .project-image {
+      width: 100%;
+      margin-bottom: 15px;
+    }
+  }
+  
