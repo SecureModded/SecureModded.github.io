@@ -18,6 +18,15 @@ header {
     text-align: center;
 }
 
+.project-image {
+    max-width: 200px; /* Adjust as needed */
+    max-height: 200px; /* Adjust as needed */
+}
+.project-image2 {
+    max-width: 150px; /* Adjust as needed */
+    max-height: 200px; /* Adjust as needed */
+}
+
 section {
     max-width: 800px;
     margin: 20px auto;
